@@ -52,7 +52,7 @@ function pagina(titulo, conteudo) {
 const rotas = new Map([
     ["/", {
         titulo: "Início",
-        conteudo: "<h1>Bem-vindo à Cloud Store!</h1><p>Uma aplicação web feita com Node.js.</p>"
+        conteudo: "<h1>Bem-vindo à loja de Jorge Gabriel!</h1><p>Uma aplicação web feita com Node.js.</p>"
     }],
     ["/sobre", {
         titulo: "Sobre",
