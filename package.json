@@ -1,0 +1,11 @@
+{
+  "name": "projeto-nuvem-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Projeto acadêmico de aplicação web em Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jorge Gabriel"
+}
